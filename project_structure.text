@@ -1,0 +1,43 @@
+- ReactSample
+  - .DS_Store
+  - ControlManifest.Input.xml
+  - HelloWorld.tsx
+  - PCF-React.code-workspace
+  - css
+    - input.css
+    - output.css
+  - generated
+    - ManifestTypes.d.ts
+  - index.ts
+- ReactSolution
+  - .DS_Store
+  - .gitignore
+  - ReactSolution.cdsproj
+  - src
+    - Other
+      - Customizations.xml
+      - Relationships.xml
+      - Solution.xml
+- UAEPASSAUTH.pcfproj
+- components
+  - ui
+    - alert.tsx
+    - button.tsx
+- components.json
+- lib
+  - utils.ts
+- out
+  - controls
+    - ReactSample
+      - ControlManifest.xml
+      - bundle.js
+      - bundle.js.LICENSE.txt
+      - css
+        - input.css
+        - output.css
+- package-lock.json
+- package.json
+- pcfconfig.json
+- project_structure.text
+- tailwind.config.js
+- tsconfig.json
